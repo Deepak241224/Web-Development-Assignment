@@ -1,0 +1,852 @@
+nav .row img{
+    width:35%;
+    float: right;
+    padding-top: 8px;
+}
+nav .row p{
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    margin-bottom: 0px;
+}
+nav .row{
+    margin-left: 110px;
+}
+#navbarDropdownMenuLink{
+    font-weight: 500;
+    margin-right: 15px;
+    color: white;
+     font-size: 18px;
+}
+#nav_link{
+    margin-right: 15px;
+    font-weight: 500;
+    color: white;
+     font-size: 18px;
+}
+.hdr{
+    margin-bottom: 100px;
+    text-align: center;
+    width: 80%;
+    margin-top: 50px;
+}
+.hdr img{
+    margin-bottom: 40px;
+}
+.hdr h1{
+    font-size: 45px;
+    font-weight: bolder;
+    color:rgb(127,26,166) ;
+}
+.hdr .col-md-2{
+    border-right: 1px dotted grey;
+}
+.hdr .col-md-3{
+    border-right: 1px dotted grey;
+}
+.top{
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.top img{
+    width: 100%;
+}
+#i3{
+    margin-bottom: 50px;
+}
+#i4{
+    margin-bottom: 53px;
+}
+#i5{
+    border-right: hidden;
+}
+#i9{
+    border-right: hidden;
+}
+.hdr a{
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.hdr a:hover{
+    text-decoration: none;
+}
+#t2{
+    width: 60%;
+}
+.top2{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-right: 90px;
+    margin-left: 100px;
+}
+.top2 img{
+    width: 70%;
+}
+.discount{
+    border-top: 3px solid black;
+    text-align: center;
+    width: 90%;
+}
+.discount h1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(127,26,166);
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.discount h1 span{
+    text-decoration: underline;
+}
+.discount .disc{
+    width: 90%;
+}
+.dbtn{
+    box-shadow: 2px 2px 20px gray;
+    padding: 10px 30px ;
+    border: hidden;
+    font-size: 25px;
+   border-radius: 50px;
+    margin-top: 20px;
+    background-color: rgb(8,153,75);
+}
+.dbtn a{
+    text-decoration: underline;
+    font-weight: bolder;
+    color: white;
+}
+.discount .timer{
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+.trial h2{
+    line-height: 40px;
+    font-size: 37px;
+}
+.trial{
+    margin-bottom: 30px;
+    color:rgb(127,26,166) ;
+}
+#yellow{
+    color: rgb(255,185,0);
+}
+.pass button{
+    margin-bottom: 20px;
+    background-color:rgb(127,26,166) ;
+    cursor: pointer;
+    padding: 0px 190px ;
+    border: hidden;
+    font-size: 33px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.pass button a{
+    text-decoration: none;
+    color: white;
+}
+.pass button:hover{
+    transition:0.2s ease-out;
+    font-size: 35px;
+     padding: 0px 200px; 
+} 
+.pass h2{
+    margin-bottom: 30px;
+    color:rgb(127,26,166) ;
+    font-size: 38px;
+}
+.pass img{
+    width: 48%;
+}
+.pass p{
+    margin-bottom: 20px;
+    margin-top: 20px;
+   font-size: 18px;
+}
+.pass p span{
+    font-weight: 600;
+}
+.pass p a{
+    text-decoration: underline;
+    color: blueviolet;
+}
+.imgs{
+    text-align: center;
+}
+.ltimg img{
+    margin-bottom: 30px;
+  margin-top: 20px;
+    width: 45%;
+}
+.ltimg .col1{
+    margin-left: 150px;
+}
+.ltimg h6{
+    font-weight: 600 ;
+    font-size: 20px;
+}
+.ltimg p{
+    margin-bottom: 0%;
+    font-size: 20px;
+}
+#manage{
+    margin-top: 70px;
+}
+#manage img{
+    width: 50%;
+}
+#limg{
+    width: 70%;
+}
+#second img{
+    width: 50%;
+    
+}
+#last img{
+    width: 70%;
+}
+#clr{
+    color: rgb(230, 14, 14);
+}
+#tl img{
+    width: 37%;
+}
+.fld{
+    margin-top:50px;
+}
+.fld h5{
+    font-size: 25px;
+}
+.br{
+    margin-left: 30px;
+    position: relative;
+    width: 90%;
+    margin-top: 30px;
+    border: 3px solid rgb(127,26,166);
+}
+.br h1{
+    margin: 10px 10px 50px 10px;
+    font-weight: bolder;
+    color:rgb(127,26,166) ;
+}
+.br2{
+    
+    margin-top: -45px;
+    position: absolute;
+     margin-left: 135px;
+    width: 40%;
+    background-color: rgb(127,26,166);
+}
+.br2 .col-md-12{
+    padding: 10px;
+}
+.br2 a{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+#hr{
+    margin-top: 90px;
+}
+.s2{
+    text-align: center;
+}
+#test a{
+   padding: 10px 150px;  
+}
+.i3 img{
+    width: 20%;
+}
+.i1{
+    margin-top: 20px;
+}
+.i1 img{
+    width: 100%;
+}
+.i2{
+    margin-top: 50px;
+}
+.i2 img{
+    width: 50%;
+}
+.st{
+    margin-top: 20px;
+}
+.st p{
+    font-size: 18px;
+}
+.course{
+    margin-top: 40px;
+}
+.course h6{
+    font-weight: 700;
+    color:rgb(127,26,166);
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.course p{
+    font-size: 19px;
+}
+.course p span{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.course button{
+    width: 90%;
+    margin-bottom: 20px;
+    background-color:rgb(127,26,166) ;
+    cursor: pointer;
+    padding: 15px;
+    border: hidden;
+    font-size: 15px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.course button a{
+    text-decoration: none;
+    color: white;
+}
+.course button:hover{
+    width: 100%;
+    transition:0.1s ease-out;
+    font-size: 18px;
+    padding: 20px; 
+} 
+#cbtn{
+    margin-top: -8px;
+}
+.bbtn button{
+    width: 70%;
+    margin-bottom: 20px;
+    background-color:rgb(127,26,166) ;
+    cursor: pointer;
+    padding: 15 25px;
+    border: hidden;
+    font-size: 25px;
+    border-radius: 90px;
+    margin-top: 20px;
+}
+.bbtn button a{
+    font-weight: 500;
+    margin: 30px;
+    text-decoration: none;
+    color: white;
+}
+.bbtn button:hover{
+    width: 75%;
+    transition:0.1s ease-out;
+    font-size: 27px;
+} 
+.Strategies p{
+    font-size: 18px;
+}
+.Strategies p a{
+    color:rgb(127,26,166) ;
+    text-decoration: underline;
+}
+.Strategies p a:hover{
+    text-decoration: none;
+}
+#ask{
+    font-weight: 700;
+    color: darkslateblue;
+}
+.Lbtn{
+    position: relative;
+    border:3px solid rgb(127,26,166) ;
+}
+.Lbtn h2{
+    color:rgb(127,26,166) ;
+    line-height: 40px;
+    margin: 20px 150px 80px 150px;
+}
+.Lbtn button{
+    margin-top: -35px;
+    margin-left: -110px;
+    border: hidden;
+    padding: 20px 45px;
+    background-color:rgb(127,26,166)  ;
+    position: absolute;
+    cursor: pointer;
+}
+.Lbtn button:hover{
+    background-color: purple;
+}
+.Lbtn button a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+}
+.allergy{
+    margin-top: 90px;
+}
+.allergy img{
+    margin-top: 40px;
+    width: 80%;
+}
+.allergy1 h2 span{
+    color: rgb(255,185,0);
+}
+.allergy1 p{
+    font-weight: lighter;
+    font-size: 23px;
+}
+.allergy1 p span{
+    text-decoration: 1px underline;
+}
+.allergy1 input{
+    box-shadow: rgb(0 0 0 / 27%) 0px 0px 5px inset;
+    font-size: 20px;
+    width: 45%;
+    margin-bottom: 14px ;
+    padding: 14px 20px ;
+    border: 1px solid rgb(200,200,200);
+}
+.allergy1 ::placeholder{
+    color:rgba(200, 200, 200, 0.897) ;
+}
+.allergy1 button{
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    padding: 20px 15px;
+    background-color: rgb(0,176,80);
+    border-radius: 100px;
+    border: hidden;
+    margin-top: 20px;
+    cursor: pointer;
+    width: 80%;
+}
+.allergy1 h6{
+    margin-top: 20px;
+    font-weight: lighter;
+    font-size: 25px;
+}
+.Bundle button{
+    cursor: pointer;
+    border-radius: 100px;
+    border: hidden;
+    background-color:rgb(127,26,166)  ;
+    margin-top: 100px;
+}
+.Bundle button:hover{
+    font-size: 43px;
+    padding: 5px 50px;
+    transition:0.1s ease-out;
+}
+.Bundle button a{
+    margin: 20px 180px;
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
+.Bundle img{
+    margin-top: 40px;
+    width: 30%;
+}
+.Bundle h5{
+    font-size: 30px;
+}
+.Bundle p{
+    font-size: 20px;
+}
+.Bundle p span{
+    font-weight: 500;
+}
+#small{
+   padding: 20PX 30px;
+    margin-top: 10px;
+}
+#small a{
+    font-weight: lighter;
+    margin: 0%;
+    font-size: 20px;
+}
+#small:hover{
+    font-weight: bold;
+    font-size: 22px;
+    width: 30%;
+    transition:0.2s ease-out; 
+}
+.Bundle h3{
+    position: relative;
+   padding: 10px 10px 80px 10px;
+    color:  rgb(127,26,166);
+    border: 2px solid rgb(127,26,166);
+    margin-top: 50px;
+}
+#lmore{
+ 
+    margin-top: -100px;
+    border-radius: 0%;
+    background-color: rgb(127,26,166);
+}
+#bundle{
+    margin-top: 40px;
+}
+#bundle h2{
+    margin-bottom: 70px;
+}
+#bundle h2 span{
+    font-weight: 700;
+}
+#double img{
+    margin-top: 60px;
+    width: 40%;
+}
+#double button:hover{
+    font-weight: bold;
+    font-size: 15px;
+    width: 60%;
+    transition:0.2s ease-out; 
+}
+#single a{
+  margin: 0%;
+}
+#single{
+    font-size: 30px;
+    padding: 4px 25px;
+    width: 80%;
+}
+#single:hover{
+    width: 90%;
+}
+.sl{
+    text-align: center;
+    margin-top: 90px;
+    width: 80%;
+}
+.slast h1{
+    color: rgb(127,26,166);
+}
+.slast h1 span{
+    text-decoration: 2px underline;
+}
+.h1 h1{
+    font-size:50px ;
+    margin-top: 50px;
+    color: rgb(127,26,166);
+}
+.h1 p{
+    color: rgb(255,185,0);
+    font-size: 25px;
+}
+.h1 p a{
+    text-decoration: underline;
+    color: black;
+}
+.h1 p a:hover{
+    color: black;
+}
+.last{
+    margin-bottom: 60px;
+    box-shadow: 2px 2px 20px grey;
+    margin-top: 80px;
+    text-align: center;
+    width: 90%;
+}
+.firstc{
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px grey;
+    border-top: 6px solid rgb(127,26,166) ;
+}
+.firstc4{
+    background-color: 5px solid black;
+}
+.firstc img{
+    width: 60%;
+    margin-top: 30px;
+}
+.firstc h1{
+    margin-top: 30px;
+    font-size: 258x;
+    color: rgb(127,26,166);
+}
+.firstc p{
+    font-family: italic;
+    font-size: 20px;
+}
+.firstc h2{
+    font-size: 25px;
+}
+.firstc h2 span{
+    font-weight: lighter;
+}
+.right1{
+    text-align: justify;
+}
+.right h2{
+    font-size: 22px;
+}
+.right h2 span{
+    line-height: 40px;
+    font-weight: lighter;
+}
+#star{
+    color: rgb(0,176,80);
+}
+.bottom{
+    margin-top: 30px;
+    color: rgb(0,176,80);
+}
+.bottom h5{
+    text-decoration: line-through;
+    font-size: 25px;
+}
+.bottom h3{
+    font-size: 30px;
+}
+.bottom h4{
+    color: black;
+}
+.LASTBTN button{
+    margin-bottom: 40px;
+    cursor: pointer;
+    border-radius: 50px;
+    border: hidden;
+    font-size: 30px;
+    padding: 15px 25px;
+    width: 90%;
+    background-color: rgb(127,26,166);
+}
+.LASTBTN button:hover{
+    font-size: 32px;
+    transition: 0.2s;
+    width: 95%;
+}
+.LASTBTN a{
+    font-weight: 700;
+    color: white;
+}
+.LASTBTN a:hover{
+    text-decoration: none;
+}
+#second{
+    
+    margin-top: 40px;
+}
+.icon{
+    font-size: 40px;
+}
+#licon .fa-facebook{
+    cursor: pointer;
+    margin-top: 10px;
+    height: 40px;
+    color: white;
+    padding: 5px;
+    background-color: rgb(59,89,152)
+}
+#licon .fa-linkedin{
+    cursor: pointer;
+    color: rgb(0,114,177);
+}
+#licon .fa-twitter{
+    cursor: pointer;
+    color: rgb(38,167,222);
+}
+.footer{
+    text-align: center;
+}
+.footer h6{
+    font-weight: 700;
+    font-size: 20px;
+    color:rgb(127,26,166) ;
+}
+.footer a{
+    line-height: 30px;
+    color: black;
+}
+.icon .fa{
+    color: rgb(0,176,80);
+}
+/* media query */
+
+@media (max-width:800px){
+    nav .row{
+        margin-left: 0%;
+    }
+    nav .row img{
+        width:35%;
+        float: left;
+        padding-top: 8px;
+    }
+    nav .row p{
+        font-weight: 600;
+        font-size: 16px;
+        color: white;
+        margin-bottom: 10px;
+}
+.hdr h1{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    color:rgb(127,26,166) ;
+}
+.hdr{
+    text-align: center;
+    margin: 0%;
+}
+.hdr img{
+    margin-bottom: 20px;
+}
+
+.hdr .col-md-2{
+    border-right:hidden
+}
+.hdr .col-md-3{
+    border-right: hidden;
+}
+#t2{
+    width: 90%;
+}
+.top2{
+    margin-right: 0;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.top2 img{
+    width: 100%;
+}
+.top .col-md-2{
+    margin-bottom: 50px;
+}
+#i2{
+    margin-bottom: 10px;
+}
+#i3{
+    margin-bottom: 10px;
+}
+#i4{
+    margin-bottom: 10px;
+}
+.top2 .col-md-3{
+    margin-bottom: 50px;
+}
+.discount h1{
+    font-size: 30px;
+}
+.discount img{
+    width: 100%;
+}
+.dbtn a{
+    font-size: 20px;
+}
+.pass button{
+    padding: 10px;
+    width: 100%;
+}
+.pass button:hover{
+    padding: 15px;
+}
+.ltimg .col1{
+    margin-left: 0%;
+}
+.br h1{
+    font-size: 30px;
+}
+.br2{
+    margin-left: 60px;
+    width: 70%;
+}
+.br2 a{
+    font-weight: 500;
+    font-size: 20px;
+}
+#test button {
+   width: 80%;
+}
+#test button:hover{
+        width: 85%;
+        padding: 10px;
+}
+#test button a{
+    font-size: 30px;
+    padding: 0%;
+    margin: 0%;
+}
+.i3 img{
+    width: 40%;
+}
+.bbtn button{
+    width: 90%;
+    font-size: 25px;
+}
+.bbtn button:hover{
+    width: 95%;
+    transition: 0.1s ease-out;
+}
+.Lbtn{
+    margin-left: 18px;
+    width: 95%;
+}
+.Lbtn h2{
+    margin: 0%;
+}
+.allergy img{
+    width: 70%;
+}
+.Bundle .col-md-12 button{
+    width: 90%;
+  
+}
+.Bundle .col-md-12 button a{
+    margin: 0%;
+    font-size: 30px;
+}
+.Bundle .col-md-12 button:hover{
+    font-size: 32px;
+    padding: 10px;
+}
+#small{
+    padding: 3%;
+    width: 90%;
+}
+#small:hover{
+    width: 92%;
+    padding: 4%;
+    font-size: 15px;
+}
+#double #small{
+    width: 75%;
+}
+#double #small:hover{
+    width: 77%;
+}
+#vir{
+   padding: 10px;
+    width: 80%;
+}
+#vir:hover{
+    width:83% ;
+}
+#vir a{
+    font-size: 30px;
+}
+#single{
+    padding: 10px;
+    width: 80%;
+}
+#single:hover{
+    padding: 15px;
+    width: 82%;
+}
+#single a{
+    font-size: 20px;
+}
+.slast h1{
+    font-size: 35px;
+}
+.disc img{
+    width: 100%;
+}
+.icon .col-md-2{
+  width: 20%;
+}
+#licon .col-md-3{
+    width: 30%;
+}
+}

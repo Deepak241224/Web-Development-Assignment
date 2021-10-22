@@ -849,4 +849,7 @@ nav .row{
 #licon .col-md-3{
     width: 30%;
 }
+    .timer a img{
+        width: 100%;
+    }
 }

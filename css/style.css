@@ -706,6 +706,12 @@ nav .row{
 #t2{
     width: 90%;
 }
+    .top{
+    margin-left: 0%;
+}
+.top img{
+    width: 75%;
+}
 .top2{
     margin-right: 0;
     margin-bottom: 50px;
